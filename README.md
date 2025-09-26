@@ -16,6 +16,6 @@ The app provides a clean and user-friendly interface to explore different food i
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: React.js, CSS/Tailwind (if used)  
+- **Frontend**: React.js, Component CSS. 
 - **Backend**: (mention backend tech, e.g., Node.js, Express, MongoDB if you used them)  
 - **Version Control**: Git & GitHub  
